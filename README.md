@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="PixVerse V6 (pixverse-v6) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.016 per second** at 360P (540P $0.024 · 720P $0.032 · 1080P $0.064) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-41c1cd)** · **[Live pricing](https://go.apimart.ai/k-3f9e5f)** · **[Model page](https://go.apimart.ai/k-c524e7)** · [⚡ 60-second quickstart](#quickstart)
 
